@@ -1,0 +1,41 @@
+body {  
+    font-family: Arial, sans-serif; 
+    padding: 20px;
+}  
+ul {  
+    list-style-type: none;  
+    padding: 0;  
+}  
+li {  
+    padding: 5px;  
+    background-color: #f0f0f0;  
+    margin: 5px 0;  
+}  
+
+.responseText {  
+    padding: 20px;  
+    margin: 20px 0;  
+    border: 1px solid #ccc;  
+    display: inline-block;  
+}  
+
+
+.comments {  
+    margin-top: 20px;  
+}  
+.comment {  
+    border: 1px solid #ccc;  
+    padding: 10px;  
+    margin: 10px 0;  
+}  
+.comment h3 {  
+    margin: 0;  
+    font-size: 1.2em;  
+}  
+
+
+  
+#result {  
+    margin-top: 20px;  
+    font-weight: bold;  
+}  
